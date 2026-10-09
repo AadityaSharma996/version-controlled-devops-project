@@ -23,3 +23,5 @@ ps -eo pid,comm --sort=-%cpu | head -n 6
 
 echo
 echo "System information collected successfully."
+
+echo "Executed from the version-controlled DevOps project."
